@@ -1,9 +1,9 @@
 
 ### Hello World! This is __Amirhossein__
 
-I'm a web developer from Tehran.
+I'm a software engineer from Tehran.
 
-I’ve been learning web development and I’m always eager to learn more and more everyday and improve myself. whether in the office or working remotely in my room, the door is always open to all.
+I’m always eager to learn more and more everyday and improve myself. whether in the office or working remotely in my room, the door is always open to all.
 
 ### socials:
 

@@ -1,7 +1,7 @@
 
 ### Hello World! This is __Amir__
 
-I'm a software engineer from Tehran.
+I'm a data scientist from Tehran.
 
 I’m always eager to learn more and more everyday and improve myself. whether in the office or working remotely in my room, the door is always open to all.
 
